@@ -1,0 +1,12 @@
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\bin\Debug\CustomerDataAccess.dll.config
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\bin\Debug\CustomerDataAccess.dll
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\bin\Debug\CustomerDataAccess.pdb
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\bin\Debug\EntityFramework.dll
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\bin\Debug\EntityFramework.xml
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\obj\Debug\CustomerDataAccess.csproj.CoreCompileInputs.cache
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\obj\Debug\CustomerDataAccess.csproj.CopyComplete
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\obj\Debug\CustomerDataAccess.dll
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\obj\Debug\CustomerDataAccess.pdb
+C:\Gayatri\Gayatri\Gayatri\.NET\APIDemo\CustomerDataAccess\obj\Debug\CustomerDataAccess.csproj.AssemblyReference.cache
